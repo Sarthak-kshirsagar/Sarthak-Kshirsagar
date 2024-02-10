@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/sarthakkshirsagar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/saru2726-dev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
@@ -19,14 +19,14 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- Proficient in developing cross-platform mobile applications using the Flutter framework, ensuring a seamless user experience across iOS and Android platforms.
 
-- :seedling: Exploring Technical Content Writing.
+- Extensive experience integrating and optimizing Firebase services such as Firestore, Authentication, Cloud Functions, and Realtime Database in Flutter applications for real-time data updates and secure user authentication.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- Skilled in designing and implementing robust and scalable back-end systems using Django, including RESTful APIs, database modeling, migrations, and optimization for efficient data storage and retrieval.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sarthak-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthakkshirsagar/)
 
   ---
 
