@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/sarthakkshirsagar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/saru2726-dev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Sarthak-kshirsagar?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 </div>
   <h1>
   hey there
@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
+  ---
 
 ### :woman_technologist: About Me :
 I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -51,9 +51,11 @@ I am a Full Stack Flutter Developer <img src="https://media.giphy.com/media/WUlp
 
 </div>
 
+---------
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarthak-Kshirsagar&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-  
 </div>
-<img src="https://myreadme.vercel.app/api/embed/Sarthak-Kshirsagar?panels=toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+----------
+<img src="https://myreadme.vercel.app/api/embed/Sarthak-kshirsagar?panels=toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
